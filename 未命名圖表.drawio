@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T03:32:29.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="HhpD2gbPlW3K1vGvVamz" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-23T03:33:52.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="g401zfrj6kmzD5aWNQkw" version="13.8.1" type="github" pages="2">
   <diagram id="rVQWAjQvvcYKXNc0S_qa" name="第1頁">
     <mxGraphModel dx="1673" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -564,13 +564,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M3yOgII4n1tGYRpYjmHY-67" value="請求Location權限" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="hsCL4Xk_pQiCvP9IxQqC-1">
-          <mxGeometry x="50" y="833" width="120" height="50" as="geometry" />
+          <mxGeometry x="92.38" y="833" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M3yOgII4n1tGYRpYjmHY-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hsCL4Xk_pQiCvP9IxQqC-1" source="M3yOgII4n1tGYRpYjmHY-69" target="M3yOgII4n1tGYRpYjmHY-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M3yOgII4n1tGYRpYjmHY-69" value="BEACON參數設定" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="hsCL4Xk_pQiCvP9IxQqC-1">
-          <mxGeometry x="55" y="928" width="110" height="50" as="geometry" />
+          <mxGeometry x="97.38" y="920" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M3yOgII4n1tGYRpYjmHY-70" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hsCL4Xk_pQiCvP9IxQqC-1" source="M3yOgII4n1tGYRpYjmHY-72" target="M3yOgII4n1tGYRpYjmHY-76">
           <mxGeometry relative="1" as="geometry" />
@@ -581,11 +581,11 @@
         <mxCell id="M3yOgII4n1tGYRpYjmHY-72" value="是否感應到的BEACON?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="hsCL4Xk_pQiCvP9IxQqC-1">
           <mxGeometry x="245.75" y="1088" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M3yOgII4n1tGYRpYjmHY-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="hsCL4Xk_pQiCvP9IxQqC-1" source="M3yOgII4n1tGYRpYjmHY-74" target="M3yOgII4n1tGYRpYjmHY-72">
+        <mxCell id="M3yOgII4n1tGYRpYjmHY-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hsCL4Xk_pQiCvP9IxQqC-1" source="M3yOgII4n1tGYRpYjmHY-74" target="M3yOgII4n1tGYRpYjmHY-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M3yOgII4n1tGYRpYjmHY-74" value="開始監聽BEACON" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="hsCL4Xk_pQiCvP9IxQqC-1">
-          <mxGeometry x="55" y="1043" width="110" height="50" as="geometry" />
+          <mxGeometry x="97.38" y="1010" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M3yOgII4n1tGYRpYjmHY-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hsCL4Xk_pQiCvP9IxQqC-1" source="M3yOgII4n1tGYRpYjmHY-76" target="M3yOgII4n1tGYRpYjmHY-84">
           <mxGeometry relative="1" as="geometry" />
